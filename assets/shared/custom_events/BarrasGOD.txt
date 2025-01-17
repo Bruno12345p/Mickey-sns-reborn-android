@@ -1,0 +1,4 @@
+value1: tiempo
+value2: distancia
+
+Creado por.- wi_fxno
