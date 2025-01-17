@@ -1,0 +1,5 @@
+Velocidad de los Beat Zooms (Solo aplica para el HUD).
+
+Value 1: Velocidad
+
+Value 2: Intensidad

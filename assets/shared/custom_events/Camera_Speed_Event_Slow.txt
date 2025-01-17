@@ -1,0 +1,2 @@
+value1 = act to activate
+value1 = des to desactivate
