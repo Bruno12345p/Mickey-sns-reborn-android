@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minnie.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Minnie Crying Idle0000" x="0" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0001" x="407" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0002" x="814" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0003" x="1221" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0004" x="1628" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0005" x="2035" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0006" x="2442" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0007" x="2849" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0008" x="3256" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0009" x="3663" y="0" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0010" x="0" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0011" x="407" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0012" x="814" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0013" x="1221" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0014" x="1628" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0015" x="2035" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0016" x="2442" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0017" x="2849" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0018" x="3256" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0019" x="3663" y="732" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0020" x="0" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0021" x="407" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0022" x="814" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0023" x="1221" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0024" x="1628" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0025" x="2035" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0026" x="2442" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0027" x="2849" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0028" x="3256" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0029" x="3663" y="1464" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0030" x="0" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0031" x="407" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0032" x="814" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0033" x="1221" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0034" x="1628" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0035" x="2035" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0036" x="2442" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0037" x="2849" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0038" x="3256" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0039" x="3663" y="2196" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0040" x="0" y="2928" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0041" x="407" y="2928" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0042" x="814" y="2928" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0043" x="1221" y="2928" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0044" x="1628" y="2928" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0045" x="2035" y="2928" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0046" x="2442" y="2928" width="387" height="712"/>
+	<SubTexture name="Minnie Crying Idle0047" x="2849" y="2928" width="387" height="712"/>
+</TextureAtlas>
