@@ -1,0 +1,3 @@
+if value1 = 'true' then enabled
+if value1 = 'false' then disabled
+value2 = keyCount (amount of arrows from 1 to 11)
