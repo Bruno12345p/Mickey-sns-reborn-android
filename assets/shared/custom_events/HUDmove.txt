@@ -1,0 +1,7 @@
+
+Value 1:
+yes: the hud tweens away in a sorta cool way;
+no: the same thing but in reverse.
+
+Value 2:
+the duration of the tween, must be higher than 0.
