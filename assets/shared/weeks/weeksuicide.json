@@ -1,0 +1,50 @@
+{
+	"storyName": "Mickey's Final Testomony",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "thesadmouse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"dejected",
+			"sadmouse",
+			[
+				135,
+				135,
+				135
+			]
+		],
+		[
+			"joyous",
+			"happy1",
+			[
+				115,
+				115,
+				115
+			]
+		],
+		[
+			"overjoyed",
+			"bipolar",
+			[
+				75,
+				75,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

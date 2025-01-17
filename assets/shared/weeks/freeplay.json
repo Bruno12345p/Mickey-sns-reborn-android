@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"smile",
+			"randy",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"white noise",
+			"whitenoise",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"melancholy",
+			"macabre",
+			[
+				55,
+				55,
+				55
+			]
+		],
+		[
+			"blinded-by-sin",
+			"relapsed",
+			[
+				75,
+				75,
+				75
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "freeplay",
+	"hiddenUntilUnlocked": false
+}
