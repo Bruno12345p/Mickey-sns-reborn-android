@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sunny Idle"
+		},
+		{
+			"offsets": [
+				632,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sunny Left"
+		},
+		{
+			"offsets": [
+				51,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sunny Down"
+		},
+		{
+			"offsets": [
+				489,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sunny Up"
+		},
+		{
+			"offsets": [
+				431,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sunny Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				50
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Sunny Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BipolarGuy",
+	"position": [
+		70,
+		160
+	],
+	"healthicon": "bipolar",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		35,
+		35
+	],
+	"camera_position": [
+		-270,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

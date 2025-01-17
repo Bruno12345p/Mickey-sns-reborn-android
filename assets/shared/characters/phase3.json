@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "Phase3 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "Phase3 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "Phase3 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "Phase3 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "Phase3 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Phase3",
+	"position": [
+		10,
+		-50
+	],
+	"healthicon": "bipolar",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		-180,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

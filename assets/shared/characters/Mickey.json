@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sunny Idle"
+		},
+		{
+			"offsets": [
+				-4,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sunny Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sunny Down"
+		},
+		{
+			"offsets": [
+				14,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sunny Up"
+		},
+		{
+			"offsets": [
+				-20,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sunny Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UnhappyMouse",
+	"position": [
+		-550,
+		-140
+	],
+	"healthicon": "sadmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		50,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

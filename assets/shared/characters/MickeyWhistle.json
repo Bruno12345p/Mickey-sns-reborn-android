@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sunny Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sunny Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sunny Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sunny Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sunny Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhistleMouse",
+	"position": [
+		-550,
+		-140
+	],
+	"healthicon": "sadmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		50,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

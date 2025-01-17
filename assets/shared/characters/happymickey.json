@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sunny Idle"
+		},
+		{
+			"offsets": [
+				-311,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sunny Left"
+		},
+		{
+			"offsets": [
+				-18,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sunny Down"
+		},
+		{
+			"offsets": [
+				16,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sunny Up"
+		},
+		{
+			"offsets": [
+				-115,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sunny Right"
+		},
+		{
+			"offsets": [
+				-336,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "Sunny Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HappyMouseGuy",
+	"position": [
+		-350,
+		160
+	],
+	"healthicon": "happy1",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		85,
+		85
+	],
+	"camera_position": [
+		140,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

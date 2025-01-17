@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-278,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sunny Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-181,
+				10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Sunny Left Whistle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-207,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sunny Left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-268,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sunny Down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				-43
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Sunny Down Whistle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-228,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sunny Right00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Sunny Right Whistle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				134
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sunny Up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				130
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Sunny Up Whistle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/themousethatssadasfuck",
+	"position": [
+		-290,
+		180
+	],
+	"healthicon": "sadmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		145,
+		145
+	],
+	"camera_position": [
+		250,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

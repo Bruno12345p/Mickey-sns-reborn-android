@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Randy Idle"
+		},
+		{
+			"offsets": [
+				110,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Randy Left"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Randy Down"
+		},
+		{
+			"offsets": [
+				4,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Randy Up"
+		},
+		{
+			"offsets": [
+				109,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Randy Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Randy",
+	"position": [
+		-90,
+		160
+	],
+	"healthicon": "randy",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		185,
+		185
+	],
+	"camera_position": [
+		40,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
